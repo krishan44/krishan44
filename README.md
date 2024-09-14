@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Looking for an Opportunity<br>And an Undergraduate at Metropolitan University<br>I'm Following BEng (Hons) in Software Engineering Degree<br>And I'm Passionate about both Frontend and Backend
+>And an Undergraduate at Metropolitan University<br>I'm Following BEng (Hons) in Software Engineering Degree<br>And I'm Passionate about both Frontend and Backend
 
 
 ## 🌐 Socials:
