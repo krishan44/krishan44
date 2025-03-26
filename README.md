@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Krishan a Software Developer, and also a Final Year student who is passionate about FullStack Development 
+I'm Krishan a Software Developer, and a Final Year student who is passionate about FullStack Development 
 
 
 ## 🌐 Socials:
