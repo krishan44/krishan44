@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <a href="https://www.happydevkrish.space/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Offline-first+apps+that+just+work;SaaS+%C2%B7+CRMs+%C2%B7+POS+systems;React+%C2%B7+Svelte+%C2%B7+NestJS;Turning+messy+workflows+into+software" alt="Typing intro" />
 </a>
@@ -20,7 +18,6 @@ I'm a **Full Stack & Mobile Software Engineer** from **Galle, Sri Lanka 🇱🇰
 I build the kind of software businesses run on every day: **multi-tenant SaaS, CRMs, POS systems and offline-first mobile apps**. I like the hard parts most: things that keep working when the Wi-Fi dies, update live across devices, and still rank on Google.
 
 - 🏗️ Building **Minchi**, a restaurant operations platform (HR, payroll, POS, stock, reservations)
-- 🏠 Lead developer on **HomespaceCRM**, the CRM behind a Spain & UK property group
 - 📡 Into offline sync, real-time systems (Socket.IO, SSE) and technical SEO
 - 🎓 BEng (Hons) Software Engineering, Esoft Metro Campus
 
@@ -44,23 +41,6 @@ I build the kind of software businesses run on every day: **multi-tenant SaaS, C
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 HomespaceCRM</h3>
-      <p>Real estate CRM (web + mobile) for sales, rentals and construction across Spain & the UK, plus the public property websites it powers.</p>
-      <ul>
-        <li>Partner feed imports, portal publishing and e-signing</li>
-        <li>Mobile app for every role with push notifications and deep links</li>
-        <li>Server-rendered SEO, structured data and live sitemaps on <a href="https://www.homespacesales.com/">homespacesales.com</a>, <a href="https://www.homespacesales.co.uk/">.co.uk</a> and <a href="https://homespacerentals.com/">rentals</a></li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>📱 <a href="https://www.myorder.space/login">MyOrder</a></h3>
       <p>Restaurant ordering platform: guests order from a QR code at the table, the kitchen sees it live, and menus translate automatically.</p>
       <ul>
@@ -75,7 +55,9 @@ I build the kind of software businesses run on every day: **multi-tenant SaaS, C
         <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🎓 <a href="https://www.stumanagement.space/">StuManagement</a></h3>
       <p>SaaS for tuition institutes: enrolment, payments, attendance and automated messages that keep parents in the loop.</p>
       <ul>
