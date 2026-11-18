@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Kavidu%20Krishan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Software%20Engineer&descSize=18&descAlignY=56" width="100%" alt="Kavidu Krishan" />
+
 
 <a href="https://www.happydevkrish.space/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Offline-first+apps+that+just+work;SaaS+%C2%B7+CRMs+%C2%B7+POS+systems;React+%C2%B7+Svelte+%C2%B7+NestJS;Turning+messy+workflows+into+software" alt="Typing intro" />
